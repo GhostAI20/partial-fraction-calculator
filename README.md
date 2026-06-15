@@ -34,3 +34,7 @@ This project was built for learning GitHub, Flask, and basic API error handling.
 ## Tech Stack
 - Python
 - Flask
+
+## Examples Added by mystery girl
+1. Example 1: (x+1)/(x^2-1) 
+2. Example 2: 1/(x(x+1))
